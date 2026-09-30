@@ -5,7 +5,10 @@
 ## Reproducibility
 
 This repository contains only the **R package**, which provides the core functions for the HCPclust method. 
-All **reproducibility materials** are maintained in a separate repository, [link], which includes complete scripts, data-processing pipelines, and configuration details required to fully reproduce the simulation results and real-data analyses presented in the paper.
+All reproducibility materials are maintained in a separate repository,
+[HCP-repro](https://github.com/judywangstat/HCP-repro), which includes complete
+scripts, data-processing pipelines, and configuration details required to
+reproduce the simulation results and real-data analyses presented in the paper.
 
 
 ## Installation
